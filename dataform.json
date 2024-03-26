@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
@@ -6,3 +7,11 @@
   "defaultLocation": "EU"
 }
     
+=======
+    "defaultSchema": "dataform_stackoverflow",
+    "assertionSchema": "dataform_stackoverflow_assertions",
+    "warehouse": "bigquery",
+    "defaultDatabase": "dataform-dogfood-shared",
+    "defaultLocation": "US"
+}
+>>>>>>> refs/heads/main
