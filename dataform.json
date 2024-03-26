@@ -1,17 +1,8 @@
 {
-<<<<<<< HEAD
-  "defaultSchema": "dataform",
+  "defaultSchema": "stackoverflow-dataset",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "genai-demo-2024",
   "defaultLocation": "EU"
 }
     
-=======
-    "defaultSchema": "dataform_stackoverflow",
-    "assertionSchema": "dataform_stackoverflow_assertions",
-    "warehouse": "bigquery",
-    "defaultDatabase": "dataform-dogfood-shared",
-    "defaultLocation": "US"
-}
->>>>>>> refs/heads/main
